@@ -1,6 +1,8 @@
 C Example Project
 =================
 
+[![Build Status](https://img.shields.io/travis/kontron/c-example-project/master.svg)](https://travis-ci.org/kontron/c-example-project)
+
 Features
 --------
 
